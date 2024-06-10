@@ -25,7 +25,7 @@ _0x327eef.POSTGRESQL_URL =
   'postgres://vajiratech_user:oSIFl2xmSojMZ0rkzdd0g0W6msuVTpNN@dpg-cpd7fjv109ks73e5gtig-a.frankfurt-postgres.render.com/vajiratech'
 _0x327eef.MONGODB_URI =
   process.env.MONGODB_URI === undefined
-    ? 'mongodb+srv://sachintharashan26:9hVStJbuE3uxwRtZ@cluster0.o0ec025.mongodb.net/'
+    ? 'mongodb+srv://giftedte:SER3spXjIJSOwrPT@cluster0.ni61idp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0.o0ec025.mongodb.net/'
     : process.env.MONGODB_URI
 _0x327eef.FOOTER =
   process.env.FOOTER ||
@@ -58,10 +58,10 @@ _0x327eef.Itzcp = '94701992015'
 _0x327eef.IMAGE_ENHANCE = ''
 _0x327eef.WHATSAPP_DEFAULT_SIZE = 1.7
 _0x327eef.BOTNUMBER =
-  process.env.BOTNUMBER === undefined ? '94701992015' : process.env.BOTNUMBER
+  process.env.BOTNUMBER === undefined ? '2349152597171' : process.env.BOTNUMBER
 _0x327eef.OWNERNUMBER =
   process.env.OWNERNUMBER === undefined
-    ? '94701992015'
+    ? '2349152597171'
     : process.env.OWNERNUMBER
 _0x327eef.BOTNAME = BOTNAME
 _0x327eef.FOOTERNAME = FOOTERNAME
